@@ -1,0 +1,45 @@
+.first {
+  background-color: yellow;
+  width: 50%;
+
+  .fa-facebook {
+    color: blue;
+  }
+  .fa-linkedin {
+    color: blue;
+  }
+  .fa-youtube {
+    color: red;
+  }
+  ul {
+    font-size: 600px;
+  }
+}
+
+.second {
+  .fa-twitter {
+    color: blue;
+  }
+  .fa-pinterest {
+    color: red;
+  }
+  .instagram {
+    color: red;
+  }
+  .fa-whatsapp {
+    color: green;
+  }
+  display: flex;
+  justify-content: center;
+
+  ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  li {
+    display: flex;
+    margin: 0px 20px 0px 20px;
+  }
+}

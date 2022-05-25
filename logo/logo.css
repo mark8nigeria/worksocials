@@ -1,0 +1,65 @@
+.first {
+  background-color: yellow;
+  width: 50%;
+}
+
+.first .fa-facebook {
+  color: blue;
+}
+
+.first .fa-linkedin {
+  color: blue;
+}
+
+.first .fa-youtube {
+  color: red;
+}
+
+.first ul {
+  font-size: 600px;
+}
+
+.second {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.second .fa-twitter {
+  color: blue;
+}
+
+.second .fa-pinterest {
+  color: red;
+}
+
+.second .instagram {
+  color: red;
+}
+
+.second .fa-whatsapp {
+  color: green;
+}
+
+.second ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.second li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0px 20px 0px 20px;
+}
+/*# sourceMappingURL=logo.css.map */
